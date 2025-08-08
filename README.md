@@ -55,7 +55,7 @@ You can get your free api link - (https://www.visualcrossing.com/weather-api)
 
 ---
 
-## 🗄 Redis Setup
+###🗄 Redis Setup
 Refer to this link -(https://redis.io/docs/latest/operate/oss_and_stack/install/archive/install-redis/install-redis-on-windows/)
 ---
 
@@ -72,7 +72,7 @@ http://127.0.0.1:5000
 
 ---
 
-###🌍 API Usage
+##🌍 API Usage
 Endpoint:
 ```bash
 GET /weather?city={city_name}
